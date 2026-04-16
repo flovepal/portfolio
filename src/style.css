@@ -964,4 +964,25 @@ button:focus {
     max-width: 180px;
   }
 }
+.home-about-body {
+  text-align: justify;
+  line-height: 1.8;
+  font-size: 1.05rem;
+  letter-spacing: 0.3px;
+}
+
+.intro-heading {
+  margin-bottom: 20px;
+}
+
+.home-about-description {
+  padding: 20px;
+}
+.home-about-body b {
+  font-weight: 600;
+}
+
+.home-about-body {
+  color: #d1d1d1;
+}
 } 
