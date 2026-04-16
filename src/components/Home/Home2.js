@@ -28,7 +28,7 @@ function Home2() {
                   {" "}Python, Java, Machine Learning, and Data Structures{""}
                 </b>
               </i>
-          , and I am continuously improving my skills in deep learning 
+          . I am continuously improving my skills in deep learning 
               and advanced AI concepts.
               <br /><br />
 
