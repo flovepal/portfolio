@@ -2,19 +2,14 @@ import React, { useState, useEffect } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
-import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
-import { CgGitFork, CgFileDocument } from "react-icons/cg";
-import { ImBlog } from "react-icons/im";
+import { CgFileDocument } from "react-icons/cg";
 import {
-  AiFillStar,
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
 } from "react-icons/ai";
 import { FaBriefcase } from "react-icons/fa";
-import { MdPhotoLibrary } from "react-icons/md";
-import { GiArtificialIntelligence } from "react-icons/gi";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
